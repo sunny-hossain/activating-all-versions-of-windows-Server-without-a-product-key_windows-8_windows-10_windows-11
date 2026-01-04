@@ -1,5 +1,5 @@
 # Activating all versions of Windows Server without a product key ( Windows 8, 10, 11 )
-As you know, Windows Server is a specialized operating system which is designed for server only. In today’s post, I will show you how to activate Windows in your VPS or dedicated server for FREE using KMS client product keys. Although the KMS license is valid for 180 days only but there is no limit on the number of activation. So you can renew it whenever you want. Actually, the license will be renewed automatically every 7 days by default (almost similar to Let’s Encrypt certificate (https://letsencrypt.org/) ). In this way, just do it one time and forget it completely.
+As you know, Windows Server is a specialized operating system which is designed for server only. In today’s post, I will show you how to activate Windows in your VPS or dedicated server for FREE using KMS client product keys. Although the KMS license is valid for 180 days only but there is no limit on the number of activation. So you can renew it whenever you want. Actually, the license will be renewed automatically every 7 days by default (almost similar to [Let’s Encrypt certificate](https://letsencrypt.org/) ). In this way, just do it one time and forget it completely.
 
 ### Note:
  1. If you are a student, an office worker or any standard user who is using desktop edition of Windows, just skip this post and please do not follow the instructions. I will not be responsible for any damage caused by you.
@@ -34,7 +34,10 @@ As you know, Windows Server is a specialized operating system which is designed 
 
   ![Description](./images/active.png)
 
-## Step 7: Restart your system and Reactivate the windows security.
+## Step 7: Restart and Reactivated.
+
+  1. Restart your Windows Now.
+  2. You can reactivated the windows security.
 
 ## Finally, check activation status of your server again.
 
@@ -45,4 +48,6 @@ As you know, Windows Server is a specialized operating system which is designed 
   ![Description](./images/issue.png)
 
 ## Enjoy Now!
+
+If you have any questions then commment me or create issue.
 
